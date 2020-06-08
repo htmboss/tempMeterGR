@@ -1,2 +1,2 @@
 # with3-1tempTown.pyGR
-Load 3 Temps from your town and convert it to 1 temp!! Works on Pyhton 2 (You may have/experience issues) 
+Βάλτε 3 θερμοκρασίες πρωί, μεσημέρι, βράδυ και ο κώδικας θα φτιάξει μια μέση θερμοκρασία. ΔΟΥΛΕΥΕΙ ΜΟΝΟ ΣΕ Python 2 ΜΟΝΟ!. Μπορεί να βρείτε πολλά σφάλματα. Είναι ανοιχτού κώδικα και μπορείτε να τον επεξενεργαστητε.
